@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Garage/static/css/main.bda72bfc.css",
+    "main.js": "/Garage/static/js/main.286ca94d.js",
+    "static/js/787.121a0e85.chunk.js": "/Garage/static/js/787.121a0e85.chunk.js",
+    "static/media/honda-car-37335.png": "/Garage/static/media/honda-car-37335.9bb1a06b35256fea3be0.png",
+    "static/media/Vx-9281.png": "/Garage/static/media/Vx-9281.9086432e457d2f434e3e.png",
+    "static/media/mercedes.png": "/Garage/static/media/mercedes.7e9cf90ff51d05698e97.png",
+    "static/media/RangeRovert537690.png": "/Garage/static/media/RangeRovert537690.f758980faa96209545fc.png",
+    "static/media/bmw-.png": "/Garage/static/media/bmw-.4efe3183a80f591aa977.png",
+    "static/media/Untitled.jpg": "/Garage/static/media/Untitled.c93daa2b7b0c4f98b131.jpg",
+    "static/media/mercedes-26184.png": "/Garage/static/media/mercedes-26184.5ecd6e974c7198c2bb3b.png",
+    "static/media/chevrolet.png": "/Garage/static/media/chevrolet.4cc2318d1b567f9e3ded.png",
+    "static/media/VW.png": "/Garage/static/media/VW.162a7d33300d44d6fda2.png",
+    "static/media/jeep.png": "/Garage/static/media/jeep.1b7d6aed3a23d7391091.png",
+    "static/media/hyundai.png": "/Garage/static/media/hyundai.15514584354d9e40659d.png",
+    "static/media/toyota.png": "/Garage/static/media/toyota.3f032119d16e03f1988a.png",
+    "static/media/homeImage.png": "/Garage/static/media/homeImage.6af1b7ae4ccc9e389c7f.png",
+    "static/media/s4.png": "/Garage/static/media/s4.e58f8de69ec0cb125b7c.png",
+    "static/media/car3.jpeg": "/Garage/static/media/car3.d8d24df20634be4f3c6c.jpeg",
+    "static/media/logo.png": "/Garage/static/media/logo.d5047bafa090a5e49e87.png",
+    "static/media/car2.jpeg": "/Garage/static/media/car2.cbcf8978799c06b59a0b.jpeg",
+    "index.html": "/Garage/index.html",
+    "main.bda72bfc.css.map": "/Garage/static/css/main.bda72bfc.css.map",
+    "main.286ca94d.js.map": "/Garage/static/js/main.286ca94d.js.map",
+    "787.121a0e85.chunk.js.map": "/Garage/static/js/787.121a0e85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda72bfc.css",
+    "static/js/main.286ca94d.js"
+  ]
+}
