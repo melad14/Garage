@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Garage/static/css/main.bda72bfc.css",
-    "main.js": "/Garage/static/js/main.e5f6e3d7.js",
+    "main.js": "/Garage/static/js/main.9e2b506f.js",
     "static/js/787.121a0e85.chunk.js": "/Garage/static/js/787.121a0e85.chunk.js",
     "static/media/honda-car-37335.png": "/Garage/static/media/honda-car-37335.9bb1a06b35256fea3be0.png",
     "static/media/Vx-9281.png": "/Garage/static/media/Vx-9281.9086432e457d2f434e3e.png",
@@ -22,11 +22,11 @@
     "static/media/car2.jpeg": "/Garage/static/media/car2.cbcf8978799c06b59a0b.jpeg",
     "index.html": "/Garage/index.html",
     "main.bda72bfc.css.map": "/Garage/static/css/main.bda72bfc.css.map",
-    "main.e5f6e3d7.js.map": "/Garage/static/js/main.e5f6e3d7.js.map",
+    "main.9e2b506f.js.map": "/Garage/static/js/main.9e2b506f.js.map",
     "787.121a0e85.chunk.js.map": "/Garage/static/js/787.121a0e85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bda72bfc.css",
-    "static/js/main.e5f6e3d7.js"
+    "static/js/main.9e2b506f.js"
   ]
 }
