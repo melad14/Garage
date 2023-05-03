@@ -26,22 +26,25 @@ window.addEventListener('scroll',addBg)
   return <>
   <div className={header}>
     <div className="logoDiv">
+      <a href="#" className='text-decoration-none'>
+
       <img src={logo }alt="Logo" className='logo' />
+      </a>
  
   </div>
   <div className={navbar}>
  <ul className="menu">
   <li onClick={removeNavbar} className="listItem">
-    <a href="/" className="link">Used Cars</a>
+    <a href="#trend" className="link">Used Cars</a>
   </li>
   <li onClick={removeNavbar} className="listItem">
-    <a href="/" className="link">Auction</a>
+    <a href="#auction" className="link">Auction</a>
   </li>
   <li onClick={removeNavbar} className="listItem">
-    <a href="/" className="link">reviews</a>
+    <a href="#review" className="link">reviews</a>
   </li>
   <li onClick={removeNavbar} className="listItem">
-    <a href="/" className="link">Sell</a>
+    <a href="#seller" className="link">Seller</a>
   </li>
  </ul>
  <IoIosCloseCircle className='icon closeIcon'onClick={removeNavbar}/>
