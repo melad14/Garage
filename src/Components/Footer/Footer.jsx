@@ -101,9 +101,9 @@ export default function Footer() {
     
       </div>
          {/* lower Footer  */}
-         <div className="lowerSection grid">
-          <p data-aos='fade-up'>2023 All right reserved </p>
-          <blockquote data-aos='fade-up' data-aos-duration='2500'>  melad Shehata</blockquote>
+         <div  className="lowerSection grid">
+          <p >2023 All right reserved </p>
+          <blockquote >  melad Shehata</blockquote>
 
          </div>
     </div>
